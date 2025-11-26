@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Лабораторная работа №4  
 ## Написание Unit-тестов (Python, модуль `unittest`)
 
@@ -23,3 +24,6 @@ def area(a, b):
 
 def perimeter(a, b):
     return 2 * (a + b)
+=======
+# unit-tests-lab4
+>>>>>>> 488f59e7b5d48bbe5d3af1a49a7e14e6a3cc17a8
